@@ -16,7 +16,7 @@ project:
       - file: 1.poisson/2.parameter-interpretation.ipynb
       - file: 1.poisson/3.assumptions-inference.ipynb
       - file: 1.poisson/4.R.ipynb
-    - title: Gamma Regression
+    #- title: Gamma Regression
     #  children:
     #    - file: 2.binomial-logistic/1.model.ipynb
     #    - file: 2.binomial-logistic/2.R.ipynb
